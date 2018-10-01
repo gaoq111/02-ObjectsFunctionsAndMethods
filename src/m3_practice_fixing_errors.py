@@ -36,9 +36,8 @@ import math as mt
 
 def main():
     """ Calls the other functions in this module to demo them. """
-    print_math(2)
+    print_math()
     turtle_fun()
-
 
 def print_math(pi):
     """ Prints some calculated values. """
